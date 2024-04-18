@@ -1,0 +1,7 @@
+npm install -g typescript
+tsc intro.ts
+tsc classes.ts
+
+npm install -g nodemon
+nodemon intro.js
+nodemon classes.js
